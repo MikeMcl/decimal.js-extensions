@@ -1,0 +1,28 @@
+{
+  "name": "decimal.js-extensions-serialize",
+  "version": "0.1.0",
+  "description": "A decimal.js extension for Decimal to ArrayBuffer serialization",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikeMcl/decimal.js-extensions.git",
+    "directory": "serialize"
+  },
+  "keywords": [
+    "decimal.js",
+    "decimal",
+    "bignumber"
+  ],
+  "author": "Michael Mclaughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeMcl/decimal.js-extensions/issues"
+  },
+  "homepage": "https://github.com/MikeMcl/decimal.js-extensions/blob/master/serialize/README.md",
+  "type": "module",
+  "private": true
+}

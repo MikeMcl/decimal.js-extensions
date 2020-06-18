@@ -1,0 +1,28 @@
+{
+  "name": "decimal.js-extensions",
+  "version": "0.1.0",
+  "description": "decimal.js extensions",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikeMcl/decimal.js-extensions.git"
+  },
+  "devDependencies": "decimal.js",
+  "keywords": [
+    "decimal.js",
+    "decimal",
+    "bignumber"
+  ],
+  "author": "Michael Mclaughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeMcl/decimal.js-extensions/issues"
+  },
+  "homepage": "https://github.com/MikeMcl/decimal.js-extensions/blob/master/README.md",
+  "type": "module",
+  "private": true
+}
