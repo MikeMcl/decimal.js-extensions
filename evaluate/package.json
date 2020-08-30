@@ -1,0 +1,31 @@
+{
+  "name": "decimal.js-extensions-evaluate",
+  "version": "0.1.0",
+  "description": "A decimal.js extension for the evaluation of arithmetic expressions",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikeMcl/decimal.js-extensions.git",
+    "directory": "evaluate"
+  },
+  "devDependencies": "decimal.js",
+  "keywords": [
+    "decimal.js",
+    "decimal",
+    "bignumber",
+    "expression",
+    "evaluate",
+    "eval"
+  ],
+  "author": "Michael Mclaughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeMcl/decimal.js-extensions/issues"
+  },
+  "homepage": "https://github.com/MikeMcl/decimal.js-extensions/blob/master/evaluate/README.md",
+  "type": "module"
+}
