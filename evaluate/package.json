@@ -1,6 +1,6 @@
 {
   "name": "decimal.js-extensions-evaluate",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A decimal.js extension for the evaluation of arithmetic expressions",
   "main": "index.js",
   "files": ["index.js"],
@@ -12,7 +12,9 @@
     "url": "https://github.com/MikeMcl/decimal.js-extensions.git",
     "directory": "evaluate"
   },
-  "devDependencies": "decimal.js",
+  "devDependencies": {
+    "decimal.js": "latest"
+  },
   "keywords": [
     "decimal.js",
     "decimal",
